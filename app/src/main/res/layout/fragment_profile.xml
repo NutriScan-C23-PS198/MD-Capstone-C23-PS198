@@ -58,7 +58,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/profilePict" />
 
-
     <TextView
         android:id="@+id/yourEmail"
         android:layout_width="wrap_content"

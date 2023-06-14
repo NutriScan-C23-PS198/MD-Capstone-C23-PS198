@@ -36,6 +36,11 @@
     <string name="calorie_with_unit">%d %s</string>
     <string name="title_sugar">Sugar</string>
     <string name="sugar_with_unit">%d %s</string>
+    <string name="background_home">bg softPink home</string>
+    <string name="icon_cabbage">icon protein</string>
+    <string name="icon_corn">icon calorie</string>
+    <string name="icon_apple">icon sugar</string>
+    <string name="banner1">Home Banner One</string>
 
     <!--Profile-->
     <string name="user_name">Name</string>

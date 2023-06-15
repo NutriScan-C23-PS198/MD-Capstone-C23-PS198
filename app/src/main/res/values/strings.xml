@@ -69,16 +69,4 @@
     <string name="background_profile">bg circle profile</string>
     <string name="profile_pict">avatar profile</string>
 
-    <!--Login-->
-    <string name="background_circle">background for login</string>
-    <string name="title_log">Sign In</string>
-    <string name="description_log">Welcome To NutriScan. Lets Scan, track, manage, and achieve your nutrition goals with our user-friendly app.</string>
-    <string name="ti_email">Email</string>
-    <string name="ti_pass">Password</string>
-    <string name="button_sign_in">Sign In</string>
-    <string name="forgot_pass">Forgot Password?</string>
-    <string name="other_sign_in">or Sign In With</string>
-    <string name="btn_sign_with_google">Google</string>
-
-
 </resources>

@@ -19,9 +19,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="halaman_home">Hello Halaman Home</string>
     <string name="halaman_journal">Hello Halaman Journal</string>
-    <string name="halaman_profile">Hello Halaman Profile</string>
     <string name="halaman_search">Hello Halaman Search</string>
     <string name="take_a_photo">take a photo</string>
     <string name="frame_camera">Frame Camera</string>
@@ -48,5 +46,17 @@
     <string name="btn_edit">Edit Profile</string>
     <string name="background_profile">bg circle profile</string>
     <string name="profile_pict">avatar profile</string>
+
+    <!--Login-->
+    <string name="background_circle">background for login</string>
+    <string name="title_log">Sign In</string>
+    <string name="description_log">Welcome To NutriScan. Lets Scan, track, manage, and achieve your nutrition goals with our user-friendly app.</string>
+    <string name="ti_email">Email</string>
+    <string name="ti_pass">Password</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="other_sign_in">or Sign In With</string>
+    <string name="btn_sign_with_google">Google</string>
+
 
 </resources>
